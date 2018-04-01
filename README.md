@@ -134,7 +134,7 @@ font-family: 'palatino linotype'
 
 - Application is running at: https://mlouricas.shinyapps.io/DataScience-CapstoneFinalProject/
 
-- Github link for various code files is here: https://github.com/mlouricas/DataScienceCapstone_NLP 
+- RPubs link for presentation is here: http://rpubs.com/mlouricas/Capstone_FinalReport 
 
 *Code and app will be updated with any new features/improvements.*
 
